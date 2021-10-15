@@ -30,9 +30,6 @@ a {
     left: 10% !important;
     transform: translate(-6%, -50%) !important;
   }
-  body {
-    background-color: lightblue;
-  }
 }
 .padding-top {
     padding-top: 16px !important;
